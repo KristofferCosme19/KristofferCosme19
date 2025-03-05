@@ -1,16 +1,16 @@
-## Hi there 👋
+# EDM-PORTFOLIO - Kristoffer Ian Cosme
+This portfolio will contain copies of my Enterprise Data Management Lab Exercises
+## About Me
+Hi there! I'm Kristoffer Ian Cosme, currently Studying Bachelor of Science in Information Systems at City College of Angeles.
 
-<!--
-**KristofferCosme19/KristofferCosme19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Education
+* Elementary: Epza resettlement Elementary School
 
-Here are some ideas to get you started:
+*High School: Bonifacio V. Remero Hight School 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Senior High School: Bonifacio V. Romero High School- Senior High School (TVL-CSS)
+
+*Collage: City College of Angeles
+## My Projects
+* Midterm Lab Task 1:
+* Midterm Lab Task 2:
