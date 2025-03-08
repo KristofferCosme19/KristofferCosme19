@@ -1,21 +1,15 @@
+# EDM-Portfolio - Patchak Supee
+This portfolio will contain copies of my Enterprise Data Management Lab Exercises
 
-# Midterm Lab Task 1 - Data Cleaning and Preparation using Excel
-For this task we are given a Flat data from Excel (See rawfile) and we are Task to perform Data CLeaning and Preparation 
-## STEP 1 Data Cleaning process
-- Load the raw file
-- Fit Column and row width and height
-- TRIM extra spaces
-- Remove NULL values
-- Remove Duplicates
-## STEP 2 Normalization 
-- Performed 1NF
-- Perform Table split using 2NF
-- Perform 3 NF
-- Mapped the Normalized tables as a Physical Data Model
-## STEP 3 Here's the screenshot of my output before I started data cleaning (See screenshot)
-<img src="images/1.JPG" alt="Alt Text" width="400" height="300">
+# About Me
+Hi there! I'm Kristoffer lan Cosne but you can call me lan. I'm a first-year Information Systems student at City College of Angeles. I enjoy learning how technology makes life easier. In my free time, I love playing badminton and exploring new tech. I'm also improving my skills in problem-solving and data management. My goal is to keep growing and use technology to create useful solutions.
 
-## STEP 4 Here's the screenshot of my output after I started data cleaning (See screenshot)
-![Sample Output](images/1.JPG)
-## Here's the Physical Data Model
+# Education
+- College:City College of Angeles 
+- Senior High School: Bonifacio V. Romero High School- Senior High School (TVL-CSS)
+- High School: Bonifacio V. Romero High School
+- Elementary: Epza Resettlement Elementary School
 
+# My Projects
+- Midterm Lab Task 1: [Data Cleaning and Preparation using EXCEL](Midterm%20Task%201/README.md)
+- Midterm Lab Task 2: [Data Cleaning and Preparation using POWER QUERY](https://arshpatchak.github.io/testCodes/)
