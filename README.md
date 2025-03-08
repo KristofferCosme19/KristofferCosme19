@@ -1,17 +1,21 @@
-# EDM-PORTFOLIO - Kristoffer Ian Cosme
-This portfolio will contain copies of my Enterprise Data Management Lab Exercises
-## About Me
-Hi there! I'm Kristoffer Ian Cosne but you can call me Ian. I'm a first-year Information Systems student at City College of Angeles. I enjoy learning how technology makes life easier. In my free time, I love playing badminton and exploring new tech. I'm also improving my skills in problem-solving and data management. My goal is to keep growing and use technology to create useful solutions.
 
-## Education
-* Elementary: Epza resettlement Elementary School
+# Midterm Lab Task 1 - Data Cleaning and Preparation using Excel
+For this task we are given a Flat data from Excel (See rawfile) and we are Task to perform Data CLeaning and Preparation 
+## STEP 1 Data Cleaning process
+- Load the raw file
+- Fit Column and row width and height
+- TRIM extra spaces
+- Remove NULL values
+- Remove Duplicates
+## STEP 2 Normalization 
+- Performed 1NF
+- Perform Table split using 2NF
+- Perform 3 NF
+- Mapped the Normalized tables as a Physical Data Model
+## STEP 3 Here's the screenshot of my output before I started data cleaning (See screenshot)
+<img src="images/1.JPG" alt="Alt Text" width="400" height="300">
 
-* High School: Bonifacio V. Remero Hight School 
+## STEP 4 Here's the screenshot of my output after I started data cleaning (See screenshot)
+![Sample Output](images/1.JPG)
+## Here's the Physical Data Model
 
-* Senior High School: Bonifacio V. Romero High School- Senior High School (TVL-CSS)
-
-* Collage: City College of Angeles
-
-## My Projects
-*Midterm Lab Task 1: 
-*Midterm Lab Task 2: 
