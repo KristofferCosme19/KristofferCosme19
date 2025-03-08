@@ -13,5 +13,5 @@ Hi there! I'm Kristoffer Ian Cosne but you can call me Ian. I'm a first-year Inf
 * Collage: City College of Angeles
 
 ## My Projects
-* Midterm Lab Task 1:
-* Midterm Lab Task 2:
+*Midterm Lab Task 1: 
+*Midterm Lab Task 2: 
