@@ -1,4 +1,4 @@
-# EDM-Portfolio - Patchak Supee
+# EDM-Portfolio - Kristoffer Ian Cosme
 This portfolio will contain copies of my Enterprise Data Management Lab Exercises
 
 # About Me
@@ -11,5 +11,5 @@ Hi there! I'm Kristoffer lan Cosne but you can call me lan. I'm a first-year Inf
 - Elementary: Epza Resettlement Elementary School
 
 # My Projects
-- Midterm Lab Task 1: [Data Cleaning and Preparation using EXCEL](Midterm%20Task%201/README.md)
-- Midterm Lab Task 2: [Data Cleaning and Preparation using POWER QUERY](https://arshpatchak.github.io/testCodes/)
+- Midterm Lab Task 1: [Data Cleaning and Preparation using EXCEL]
+- Midterm Lab Task 2: [Data Cleaning and Preparation using POWER QUERY]
