@@ -5,7 +5,7 @@ This portfolio will contain copies of my Enterprise Data Management Lab Exercise
 Hi there! I'm Kristoffer lan Cosne but you can call me lan. I'm a first-year Information Systems student at City College of Angeles. I enjoy learning how technology makes life easier. In my free time, I love playing badminton and exploring new tech. I'm also improving my skills in problem-solving and data management. My goal is to keep growing and use technology to create useful solutions.
 
 # Education
-- College:City College of Angeles 
+- College: City College of Angeles 
 - Senior High School: Bonifacio V. Romero High School- Senior High School (TVL-CSS)
 - High School: Bonifacio V. Romero High School
 - Elementary: Epza Resettlement Elementary School
