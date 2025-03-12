@@ -12,4 +12,4 @@ Hi there! I'm Kristoffer lan Cosne but you can call me lan. I'm a first-year Inf
 
 # My Projects
 - Midterm Lab Task 1: [Data Cleaning and Preparation using EXCEL](Midterm%20task%201)
-- Midterm Lab Task 2: [Data Cleaning and Preparation using POWER QUERY](Midterm%20task%202)
+- Midterm Lab Task 2: [Data Cleaning and Preparation using POWER QUERY](Midterm%20task%202/Image)
