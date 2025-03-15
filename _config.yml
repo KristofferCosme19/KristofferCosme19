@@ -1,7 +1,6 @@
-title: "Portfolio"
+title: Kristoffer Ian Cosme
 description: "Enterprise Data Management Portfolio"
-author: Kristoffer Ian Cosme 
-remote_theme: pages-themes/minimal@v0.2.0
+theme: jekyll-theme-minimal
 logo: "Image/Screenshot_2025-03-15-20-23-53-709_com.miui.gallery-edit.jpg"
 
 show_downloads: true
