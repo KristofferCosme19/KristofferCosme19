@@ -19,3 +19,4 @@ For this task we are given a Flat data from Excel (See rawfile) and we are Task 
 ![Image alt](https://github.com/KristofferCosme19/KristofferCosme19/blob/322d574e7e461111555242d61eed0f633fa2f619/Midterm%20task%201/Image/IMG_20250310_201457.jpg)
 
 ## Here's the Physical Data Model
+<img src="Image/diagram%20(1).PNG" alt="Alt Text" width="700" height="300">
