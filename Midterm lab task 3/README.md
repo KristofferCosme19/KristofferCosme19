@@ -69,3 +69,6 @@ Insert Slicers to allow filtering based on:
 - Sector with the most and least jobs
 - Sector with the lowest and highest average salaries
 
+----
+## **Final output:**
+<img src="image/Dashboard%20final.PNG" alt="Alt Text" width="800" height="450">
