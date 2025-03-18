@@ -27,4 +27,4 @@
 # My Projects
 - **Midterm Lab Task 1**: [Data Cleaning and Preparation using EXCEL](Midterm%20task%201)
 - **Midterm Lab Task 2**: [Data Cleaning and Preparation using POWER QUERY](Midterm%20task%202/Image)
-- **Midterm Lab Task 3**: [Creating PIVOT TABLE and DASHBOARD](Midterm%20lab%20task%203/image)
+- **Midterm Lab Task 3**: [Creating PIVOT TABLE and DASHBOARD](Midterm%20lab%20task%203)
