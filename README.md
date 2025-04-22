@@ -32,4 +32,5 @@
 - **Finals Practice Task 1SQL Basic**: [MySQL Workbench](Finals%20Practice%20Task%201SQL%20Basic)
 - **Finals Lab Task 1. MySQL Basics**: [MySQL Workbench](Finals%20Lab%20Task%201.%20MySQL%20Basics)
 - **Finals Task 2. Transform ER into Relational tables**: [MySQL Workbench](Finals%20Task%202.%20Transform%20ER%20into%20Relational%20tables/Images)
-  
+  - **Finals Practice Task 1SQL Basic**: [MySQL Workbench](Finals%20Practice%20Task%201SQL%20Basic)
+- **Finals Task 3. Table Manipulation**: [MySQL Workbench](Finals%20Task%203.%20Table%20Manipulation/Images)
