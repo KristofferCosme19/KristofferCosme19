@@ -29,6 +29,7 @@
 - **Midterm Lab Task 2**: [Data Cleaning and Preparation using POWER QUERY](Midterm%20task%202/Image)
 - **Midterm Lab Task 3**: [Creating PIVOT TABLE and DASHBOARD](Midterm%20lab%20task%203)
 
+"Editing is still in progress...
 - **Finals Practice Task 1SQL Basic**: [MySQL Workbench](Finals%20Practice%20Task%201SQL%20Basic)
 - **Finals Lab Task 1. MySQL Basics**: [MySQL Workbench](Finals%20Lab%20Task%201.%20MySQL%20Basics)
 - **Finals Task 2. Transform ER into Relational tables**: [MySQL Workbench](Finals%20Task%202.%20Transform%20ER%20into%20Relational%20tables/Images)
