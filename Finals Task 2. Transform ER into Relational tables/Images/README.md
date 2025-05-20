@@ -1,4 +1,4 @@
-# Finals Lab Task 2. MySQL Basics
+# Finals Task 2. Transform ER into Relational tables
 
 ## Step 1: Create the database and use it:
 - This makes a new database called studentdb where all your tables will live.
@@ -57,3 +57,7 @@ updated, related submissions are automatically deleted or updated to maintain co
 
 # output:
 <img src="IMG_20250518_145901%20(1).png">
+
+# ER Diagram:
+<img src="5 (1) (4)_page-0001.jpg">
+
