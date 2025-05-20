@@ -27,18 +27,19 @@ and their types.
 - This table holds assignments.
 - Shortname is a unique name for the assignment (primary key).
 - due_date is the deadline and cannot be empty (NOT NULL).
-- url can hold a link related to the assignment, and it can be empty (NULL all
+- url can hold a link related to the assignment, and it can be empty 
 
-<img src="Images/IMG_20250520_191501%20(1).png">
+<img src="IMG_20250520_191501%20(1).png">
 
-#output: 
-<img src="d1.PNG">
+# output: 
+
+<img src="assignment%201.png">
 
 
 ## Step 4: Create a table named_submission
 **Create a table named submission with these columns:**
 username(student who submits)
-- shortname (assignment identifier)
+shortname (assignment identifier)
 version(submission version number)
 submit_date (date submitted, required)
 data (submission content as text)
@@ -52,8 +53,7 @@ table
 .**USe ON DELETE CASCADE and ON UPDATE CASCADE on** foreign keys so that if a student or assignment is deleted or
 updated, related submissions are automatically deleted or updated to maintain consistency.
 
-<img src="d1.PNG">
+<img src="IMG_20250518_145732%20(1).png">
 
-
-#OUTPUT:
-
+# output:
+<img src="IMG_20250518_145901%20(1).png">
