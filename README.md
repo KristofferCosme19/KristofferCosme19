@@ -38,7 +38,7 @@
 - **Finals Task 2. Transform ER into Relational tables**: [MySQL Workbench](Finals%20Task%202.%20Transform%20ER%20into%20Relational%20tables/Images)
 - **Finals Task 3. Table Manipulation**: [MySQL Workbench](Finals%20Task%203.%20Table%20Manipulation/Images)
 - **Finals Task 3-1 Using SELECT CLAUSE**: [MySQL Workbench](Finals%20Task%203-1%20Using%20SELECT%20CLAUSE/Images)
-- **Finals Task 5. Views SP and Functions**: [MySQL Workbench](Finals%20Task%205.%20Views%20SP%20and%20Functions/Images/README.md)
+- **Finals Task 5. Views SP and Functions**: [MySQL Workbench](Finals%20Task%205.%20Views%20SP%20and%20Functions/Images)
 - **Finals Lab Task 6. MongoDB Practice**: [MongoDB Practice](Finals%20Lab%20Task%206.%20MongoDB%20Practice/Images)
   
     
