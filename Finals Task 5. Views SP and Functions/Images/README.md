@@ -1,73 +1,77 @@
 
-## Step 1: Create a View to show products from 2002 onwards
-
-
-- This view shows the vendor code, vendor name, product name, and date it was added — only for products from 2002 and later
+## Step 1: CREATE VIEW: vendors_code, vendors name, product description, p_indate (from 2002 onwards)
 
 
 
-<img src="">
+<img src="1.0 - Copy.PNG">
 
 
-<img src="">
+**to see the result:**
 
-**Output:**
-
-<img src="">
-
-
-## Step 2: Create a View for products priced between 100 and 150
-- This view shows all product details where the price is between 100 and 150.
-
-<img src="">
-
-<img src="">
+<img src="z1.PNG">
 
 
 **Output:**
 
-<img src="">
+<img src="z1.0.PNG">
 
 
 
-## Step 3: Create a View to show the total price of products from specific vendors
-- This view calculates the total value of products from vendors 21344, 23119, and 24288.
-- It uses: P_ONHAND * P_PRICE for each product.
 
-<img src="">
+## Step 2: CREATE VIEW: All products priced between 100-150
 
-<img src="">
+<img src="2.0.PNG">
+
+
+
+
+<img src="z2.PNG">
+
+
+**Output:**
+
+<img src="z2.0.PNG">
+
+
+
+## Step 3: CREATE VIEW: Compute TOTAL_PRICE (P_ONHAND × P_PRICE) for vendors 21344, 23119, 24288
+
+<img src="3.0.PNG">
+
+
+**to see the result:**
+
+<img src="z3.PNG">
 
 
 **Output:**
 
 
-<img src="">
+<img src="z3.0.PNG">
 
 
-## Step 4: Create a Stored Procedure to update a vendor's name
-- This stored procedure changes the name 'Bryson,Inc.' to 'Bryson and Co'.
+## Step 4: CREATE STORED PROCEDURE: Update 'Bryson,Inc.' to 'Bryson and Co'
 
+<img src="IMG_20250525_181439.png">
 
-<img src="">
+**to see the result:**
 
-<img src="">
+<img src="SAVE_20250525_181824.jpg">
 
 
 **Output**
 <img src="">
 
 
-## Step 5: Create a Stored Procedure to get product info by vendor
+## Step 5: CREATE FUNCTION: Accepts v_code and v_state, returns product descriptions and prices
 
-- This procedure shows the product name and price based on the vendor code and state you provide.
+<img src="5.0.PNG">
 
+**to see the result:**
 
-<img src="">
-
-<img src="">
+<img src="5,0.PNG">
 
 **Output:**
 
-<img src="">
+<img src="z5.0.PNG">
 
