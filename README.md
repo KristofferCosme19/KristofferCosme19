@@ -29,9 +29,8 @@
 - **Midterm Lab Task 2**: [Data Cleaning and Preparation using POWER QUERY](Midterm%20task%202/Image)
 - **Midterm Lab Task 3**: [Creating PIVOT TABLE and DASHBOARD](Midterm%20lab%20task%203)
 
-"Editing is still in progress. / Uploading images,
-**I will be able to complete it by 10:00 PM today, May 25**
 
+---
 
 - **Finals Practice Task 1SQL Basic**: [MySQL Workbench](Finals%20Practice%20Task%201SQL%20Basic)
 - **Finals Lab Task 1. MySQL Basics**: [MySQL Workbench](Finals%20Lab%20Task%201.%20MySQL%20Basics)
